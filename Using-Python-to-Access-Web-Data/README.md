@@ -1,4 +1,4 @@
-# [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/) 
+## [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/) 
 
 * #### Week 1 [Getting Started](https://www.coursera.org/learn/python-network-data/home/week/1)
 * #### Week 2 [Regular Expressions](https://www.coursera.org/learn/python-network-data/home/week/2)
