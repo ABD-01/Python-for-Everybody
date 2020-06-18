@@ -1,5 +1,5 @@
 # Python for Everybody Specialization
-## [Course](https://www.coursera.org/specializations/python) offered by University of Michigan on Coursera
+###  [Course](https://www.coursera.org/specializations/python) offered by University of Michigan on Coursera
 Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.
 
 #### This repository contains my solutions for the assignments in this course.
