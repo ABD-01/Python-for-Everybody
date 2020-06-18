@@ -12,7 +12,7 @@ data = urllib.request.urlopen(url).read()
 print('Retrieved', len(data), 'characters')
 
 info = json.loads(data)
-print('Count:',len(info['comments']))
+print('Count:', len(info['comments']))
 
 Sum = 0
 for comment in info['comments']:
