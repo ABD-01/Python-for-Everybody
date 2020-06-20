@@ -5,4 +5,4 @@
 *Use as a reference purpose only. Keep in mind the [Coursera’s Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863)*
 
 * ### Course 3 [Using Python to Access Web Data](https://github.com/ABD-01/Python-for-Everybody/tree/master/Using-Python-to-Access-Web-Data)
-* ### Course 4 [Using Databases with Python](https://github.com/ABD-01/Python-for-Everybody/tree/master/Using-Python-to-Access-Web-Data)
+* ### Course 4 [Using Databases with Python](https://github.com/ABD-01/Python-for-Everybody/tree/master/Using-Databases-with-Python)
