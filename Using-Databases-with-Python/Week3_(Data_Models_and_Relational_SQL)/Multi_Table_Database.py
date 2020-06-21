@@ -7,7 +7,7 @@ conn = sqlite3.connect('music.sqlite')
 db = conn.cursor()
 
 create = open('create.sql').read()
-db.executescript(create)
+db.executescript(create)    # Executes multiple statements
 
 
 def lookup(d, key):
