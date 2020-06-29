@@ -10,4 +10,3 @@
 
 ## My Cerificate
 ![Coursera Python for Everybody](https://user-images.githubusercontent.com/63636498/86027038-d2329580-ba4d-11ea-8aaa-543cb491e232.jpg)
-![Coursera Capstone Retrieving Processing and Visualizing Data with Python.pdf](https://github.com/ABD-01/Python-for-Everybody/files/4846553/Coursera.Capstone.Retrieving.Processing.and.Visualizing.Data.with.Python.pdf)
